@@ -10,3 +10,5 @@
 6. npx playwright install-dep
 
 7. playwright install
+
+8. tg: @resetcvc
